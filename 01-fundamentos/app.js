@@ -4,7 +4,7 @@ console.log( console.log('Hola Mundo') );
 // Var y Let sirven para crear variables.
 let a = 10,
     b = 11,
-    c = 12;
+    c = 'Hello there!';
 //
 
 // Malas prácticas
