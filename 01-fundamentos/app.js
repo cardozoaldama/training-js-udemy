@@ -31,3 +31,9 @@ console.log({c});
 
 // Using console.table.
 console.table({a, b, c, d, e});
+
+// Using constants in JS.
+string1 = 'Hi ';
+string2 = 'there pal!';
+const salute = string1 + string2;
+console.log(salute);
