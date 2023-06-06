@@ -18,3 +18,6 @@ const d = 34;
 let x = 25;
 x = x + a;
 console.log( x );
+console.info(x);
+console.error(x);
+console.warn(x);
