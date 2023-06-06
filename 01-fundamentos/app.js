@@ -21,3 +21,10 @@ console.log( x );
 console.info(x);
 console.error(x);
 console.warn(x);
+
+// Add some styles here.
+console.log('%c Our variables', 'color:red; font-family: Arial, sans-serif');
+// The {} shows us the object.
+console.log({a});
+console.log({b});
+console.log({c});
