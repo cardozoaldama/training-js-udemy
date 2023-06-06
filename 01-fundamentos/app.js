@@ -28,3 +28,6 @@ console.log('%c Our variables', 'color:red; font-family: Arial, sans-serif');
 console.log({a});
 console.log({b});
 console.log({c});
+
+// Using console.table.
+console.table({a, b, c, d, e});
